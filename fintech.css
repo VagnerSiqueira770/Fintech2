@@ -1,0 +1,41 @@
+body {
+    background-image: url('https://drive.google.com/file/d/1hh1aiKFc7dAHZ4g7-HOndfPPxvVzm00V/view?usp=sharing'); /* Substitua 'seu-background-image.jpg' pelo caminho da sua imagem de fundo */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #ffffff;
+  }
+  
+  .logo-container img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .phrase-container {
+    color: #C6FE1E;
+    font-size: 24px;
+  }
+  
+  .btn-cadastrar {
+    background-color: #DAFF73;
+    color: #242425;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+  }
+  
+  .btn-login {
+    background-color: #DAFF73;
+    color: #242425;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+  }
+  
